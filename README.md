@@ -8,7 +8,7 @@ O objetivo é fazer uma integração do Power BI com um Banco de Dados e a trans
 
 # Descrição
 
-Foi criado uma instância Mysql na Azure, e foi criado um banco de dados, as tabelas, e preenchido com informações fictícias. Em seguida foi feita a integração do Power BI com o banco de dados criado na Azure. Com as tabelas do banco de dados no Power BI, foi iniciado o processo de Transformação de dados no Power Query, seguindo um "roteiro". Finalizado as transformações de dados, foi montado um relatório mostrando as informações relevantes.
+Foi criado uma instância Mysql na Azure, e foi criado o banco de dados e as tabelas, e preenchido com informações fictícias. Em seguida foi feita a integração do Power BI com o banco de dados criado na Azure. Com as tabelas do banco de dados no Power BI, foi iniciado o processo de Transformação de dados no Power Query, seguindo um "roteiro". Finalizado as transformações de dados, foi montado um relatório mostrando as informações relevantes.
 
 # Roteiro para a Transformação de Dados
 
